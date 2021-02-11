@@ -1,0 +1,19 @@
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\bin\Debug\netstandard2.0\Reciever App.deps.json
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\bin\Debug\netstandard2.0\Reciever App.dll
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\bin\Debug\netstandard2.0\ref\Reciever App.dll
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\bin\Debug\netstandard2.0\Reciever App.pdb
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Reciever App.csprojAssemblyReference.cache
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Reciever App.AssemblyInfoInputs.cache
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Reciever App.AssemblyInfo.cs
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Reciever App.csproj.CoreCompileInputs.cache
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Reciever App.dll
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\ref\Reciever App.dll
+C:\Users\e2010007\source\repos\Reciever App\Reciever App\Reciever App\obj\Debug\netstandard2.0\Reciever App.pdb
